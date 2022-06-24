@@ -1,0 +1,60 @@
+body{
+	background-color: #ADD8E6;
+	background-size: cover;
+	color: black;
+	margin-right: 70px;
+	margin-left: 80px;
+	margin-top: 80px;
+	margin-bottom: 70px;
+	font-family: serif;
+}
+
+.index{
+	text-align: center;
+}
+
+#ataqueh1{
+	text-align: center;
+}
+
+#recepcaoh1{
+	text-align: center;
+}
+
+#defesah1{
+	text-align: center;
+}
+
+#saqueh1{
+	text-align: center;
+}
+
+#levantamentoh1{
+	text-align: center;
+}
+
+ul{
+	margin-right: 70px;
+}
+
+figure{
+		text-align: center;
+}
+
+figcaption{
+			opacity: 80%;
+}
+
+footer{
+	margin-top: 30px;
+		text-align: center;
+		font-size: small;
+}
+
+a{
+	color: black;
+}
+
+#links{
+	margin-top: 60px;
+}
